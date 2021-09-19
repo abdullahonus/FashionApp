@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: "Countrol4Offical",
       debugShowCheckedModeBanner: false,
       home: HomePage(),
     );
